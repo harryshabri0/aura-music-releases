@@ -1,0 +1,10 @@
+{
+  "available": true,
+  "build_number": 7,
+  "version": "1.4.1",
+  "apk_url": "https://github.com/harryshabri0/aura-music-releases/releases/download/v1.4.1/AURA-Music-1.4.1.apk",
+  "sha256": "a47e4732bdfd858124532de576962c76a7780f2e79a2f0449ba9539fc8855113",
+  "notes": "Perbaikan pergantian lagu gagal, navigasi tombol Back Android, dan pembaruan lirik Latin untuk unduhan lama.",
+  "required": false,
+  "size": 73030798
+}
