@@ -1,10 +1,10 @@
 {
   "available": true,
-  "build_number": 8,
-  "version": "1.4.2",
-  "apk_url": "https://github.com/harryshabri0/aura-music-releases/releases/download/v1.4.2/AURA-Music-1.4.2.apk",
-  "sha256": "cf3b564ae43871a0f3d8059f3751c8bba4de8faa07ee9f2af236d124bd86a71c",
-  "notes": "Update langsung dari GitHub, nomor versi aplikasi yang akurat, dan pergantian otomatis dari Render ke server cadangan.",
+  "build_number": 9,
+  "version": "1.4.3",
+  "apk_url": "https://github.com/harryshabri0/aura-music-releases/releases/download/v1.4.3/AURA-Music-1.4.3.apk",
+  "sha256": "9d78039b822389de65cc69b0870b4a173eb8ac9679a43677e3f6f6c8f70b011b",
+  "notes": "Alternatif resmi Audius untuk pencarian dan streaming tanpa yt-dlp, dengan playlist, Global Play, lirik, dan unduhan jika diizinkan artis.",
   "required": false,
-  "size": 73047182
+  "size": 73055853
 }
